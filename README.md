@@ -1,5 +1,5 @@
 # wopsego
-WhatsOpt API for SEGOMOE Onera Optimizer
+Python 2.7/3 WhatsOpt API for SEGOMOE Onera Optimizer.
 
 ## Prerequesite
 
