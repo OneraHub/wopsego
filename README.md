@@ -1,6 +1,7 @@
 # wopsego
 **Legacy Python 2.7** WhatsOpt API for SEGOMOE Onera Optimizer.
-If you have Python 3, please refer to SEGOMOE as WhatsOpt web service
+
+**For Python 3+**, please refer to SEGOMOE as WhatsOpt web service
 * [single-objective optimization](https://github.com/whatsopt/WhatsOpt-Doc/blob/master/whatsopt_segomoe.ipynb)
 * [multi-objective optimization](https://github.com/whatsopt/WhatsOpt-Doc/blob/master/whatsopt_segmoomoe.ipynb)
 
